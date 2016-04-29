@@ -1,11 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.4.29)  29 APR 2016 17:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.4.29)  29 APR 2016 19:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**tcc.tex
-(./tcc.tex
+**pi1.tex
+(./pi1.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 2 languages loaded.
+(./fixos/pacotes.tex
 (/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2.cls
 Document Class: abntex2 2015/04/28 v1.9.5 abnTeX2
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
@@ -593,7 +594,7 @@ Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
 \ABNTEXsignwidth=\skip199
 \ABNTEXsignthickness=\skip200
 \ABNTEXsignskip=\skip201
-) (./fixos/pacotes.tex (/usr/share/texlive/texmf-dist/tex/latex/cmap/cmap.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/cmap/cmap.sty
 Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
 )
 (/usr/share/texmf/tex/latex/lm/lmodern.sty
@@ -932,34 +933,34 @@ Package: eso-pic 2015/04/20 v2.0e eso-pic (RN)
 Package color Info: Redefining color blue on input line 1.
 Package hyperref Info: Option `colorlinks' set `true' on input line 16.
 )
-\tcc@idxfile=\write4
-\openout4 = `tcc.idx'.
+\pi1@idxfile=\write4
+\openout4 = `pi1.idx'.
 
 
-Writing index file tcc.idx 
-(./tcc.aux)
-\openout1 = `tcc.aux'.
+Writing index file pi1.idx 
+(./pi1.aux)
+\openout1 = `pi1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 9.
  (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 \AtBeginShipoutBox=\box30
-Package hyperref Info: Link coloring ON on input line 10.
+Package hyperref Info: Link coloring ON on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -971,18 +972,18 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 10.
-LaTeX Info: Redefining \ref on input line 10.
-LaTeX Info: Redefining \pageref on input line 10.
-LaTeX Info: Redefining \nameref on input line 10.
-LaTeX Info: Redefining \degres on input line 10.
-LaTeX Info: Redefining \dots on input line 10.
-LaTeX Info: Redefining \up on input line 10.
+LaTeX Info: Redefining \nameref on input line 9.
+LaTeX Info: Redefining \ref on input line 9.
+LaTeX Info: Redefining \pageref on input line 9.
+LaTeX Info: Redefining \nameref on input line 9.
+LaTeX Info: Redefining \degres on input line 9.
+LaTeX Info: Redefining \dots on input line 9.
+LaTeX Info: Redefining \up on input line 9.
 \myptabbox=\box31
 \myptabboxwidth=\skip208
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 10.
+(lastpage)             ! on input line 9.
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count172
@@ -1011,38 +1012,25 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 13.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 12.
 
 (/usr/share/texmf/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Package epstopdf Info: Source file: <figuras/capa.eps>
-(epstopdf)                    date: 2015-04-04 14:41:40
-(epstopdf)                    size: 649636 bytes
-(epstopdf)             Output file: <figuras/capa-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-04-29 11:46:53
-(epstopdf)                    size: 105943 bytes
-(epstopdf)             Command: <repstopdf --outfile=figuras/capa-eps-converted
--to.pdf figuras/capa.eps>
-(epstopdf)             \includegraphics on input line 13.
-Package epstopdf Info: Output file is already uptodate.
-
-<figuras/capa-eps-converted-to.pdf, id=5, 814.04124pt x 1150.2975pt>
-File: figuras/capa-eps-converted-to.pdf Graphic file (type pdf)
-
-<use figuras/capa-eps-converted-to.pdf>
-Package pdftex.def Info: figuras/capa-eps-converted-to.pdf used on input line 1
-3.
+<figuras/capa.pdf, id=5, 814.04124pt x 1150.2975pt>
+File: figuras/capa.pdf Graphic file (type pdf)
+ <use figuras/capa.pdf>
+Package pdftex.def Info: figuras/capa.pdf used on input line 12.
 (pdftex.def)             Requested size: 597.52437pt x 844.34396pt.
- [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figuras/capa-eps-convert
-ed-to.pdf>] [2
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figuras/capa.pdf>]
+[2
 
 ]
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 14.
-
-(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+ (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )<<ot1.cmap>>
 LaTeX Font Info:    Try loading font information for OML+lmm on input line 14.
@@ -1073,212 +1061,107 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.14 \imprimirfolhaderosto* {}
-                               [1
+l.14 
+      [1
 
 
-] (./fixos/fichaCatalografica.tex
-Underfull \hbox (badness 10000) in paragraph at lines 6--22
-
- []
-
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 22.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 22.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 22.
-) (./editaveis/errata.texpdfTeX warning (ext4): destination with the same ident
-ifier (name{page.2}) has been already used, duplicate ignored
+] (./editaveis/agradecimentos.texpdfTeX warning (ext4): destination with the sa
+me identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.2 E
-     lemento opcional da \citeonline[4.2.1.2]{NBR14724:2011}. \textbf{Caso nÃ£o
-[2] [3
+l.2 A
+      inclusÃ£o desta seÃ§Ã£o de agradecimentos Ã© opcional, portanto, sua i...
+[2
 
-] [4
+] [3] [4
 
-]) (./fixos/folhaDeAprovacao.tex [5
+]) (./editaveis/resumo.tex [5] [6
 
-] [6
+]) (./editaveis/abstract.tex
+[7] [8
 
-])
-(./editaveis/dedicatoria.tex [7] [8
+]) (./fixos/listasAutomaticas.tex (./pi1.lof) [9] [10
 
-]) (./editaveis/agradecimentos.tex [9
+] (./pi1.lot)
+[11] [12
 
-]
-[10
+]) (./editaveis/abreviaturas.tex [13
 
-]) (./editaveis/epigrafe.tex [11] [12
+] [14
 
-]) (./editaveis/resumo.tex [13]
-[14
+]) (./editaveis/simbolos.tex
+[15
 
-]) (./editaveis/abstract.tex [15] [16
+] [16
 
-]) (./fixos/listasAutomaticas.tex
-(./tcc.lof) [17] [18
-
-] (./tcc.lot) [19] [20
-
-]) (./editaveis/abreviaturas.tex
-[21
-
-] [22
-
-]) (./editaveis/simbolos.tex [23
-
-] [24
-
-]) (./fixos/indiceAutomatico.tex
-(./tcc.toc
+]) (./fixos/indiceAutomatico.tex (./pi1.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 12.
+(Font)              <14.4> on input line 41.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 41.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 41.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25])
-[26]) (./editaveis/introducao.tex) (./editaveis/aspectosgerais.tex
-Overfull \hbox (6.91008pt too wide) in paragraph at lines 3--1
-[]\T1/lmr/m/n/12 Este doc-u-mento ap-re-senta con-sid-er-ações gerais e pre-lim
--inares rela-cionadas à redação
- []
+ [17])
+[18]) (./editaveis/introducao.tex
 
-[27
+! LaTeX Error: File `introducao/tema.tex' not found.
 
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
 
-] [28
+Enter file name: cd ..
 
-] [29] [30]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 20.
- (/usr/share/texmf/tex/latex/lm/omslmr.fd
-File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 20.
- [31
+! LaTeX Error: File `cd ..' not found.
 
-] [32]
-[33]) (./editaveis/consideracoes.tex [34] [35
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: .)
 
-]) (./editaveis/textoepostexto.tex [36] [37
+Enter file name: q
 
-] [38]) (./editaveis/elementosdotexto.tex [39
+! LaTeX Error: File `q..' not found.
 
-] [40]
-Package epstopdf Info: Source file: <figuras/fig01.eps>
-(epstopdf)                    date: 2015-04-04 14:40:28
-(epstopdf)                    size: 2193446 bytes
-(epstopdf)             Output file: <figuras/fig01-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-04-29 11:46:54
-(epstopdf)                    size: 42638 bytes
-(epstopdf)             Command: <repstopdf --outfile=figuras/fig01-eps-converte
-d-to.pdf figuras/fig01.eps>
-(epstopdf)             \includegraphics on input line 89.
-Package epstopdf Info: Output file is already uptodate.
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: .)
 
-<figuras/fig01-eps-converted-to.pdf, id=326, 1204.5pt x 903.375pt>
-File: figuras/fig01-eps-converted-to.pdf Graphic file (type pdf)
+Enter file name: q
 
-<use figuras/fig01-eps-converted-to.pdf>
-Package pdftex.def Info: figuras/fig01-eps-converted-to.pdf used on input line 
-89.
-(pdftex.def)             Requested size: 361.35278pt x 271.01459pt.
- [41 <./figuras/fig01-eps-converted-to.pdf>]) (./editaveis/elementosdopostexto.
-tex [42] [43
+! LaTeX Error: File `q..' not found.
 
-]) (./tcc.bbl (./tcc.brf)
-\tf@brf=\write5
-\openout5 = `tcc.brf'.
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: .)
 
+Enter file name: 
+! Interruption.
+<to be read again> 
+                   }
+l.3 \input{introducao/tema}
+                           ^^M
+? q
+OK, entering \batchmode...
 
-[44]
+! LaTeX Error: File `introducao/justificativa.tex' not found.
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 3.
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
 
-bibitemlist
-) (./editaveis/apendices.tex [45
+ Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.4 \input{introducao/justificativa}
+                                    ^^M
+*** (cannot \read from terminal in nonstop modes)
 
-] [46
-
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 3.
-
-[47
-
-] [48] [49
-
-] [50
-
-]) (./editaveis/anexos.tex [51] [52
-
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 3.
-
-[53
-
-] [54] [55
-
-] [56
-
-])
-No file tcc.ind.
-
-AED: lastpage setting LastPage
-[57]
-\tf@lof=\write6
-\openout6 = `tcc.lof'.
-
-\tf@lot=\write7
-\openout7 = `tcc.lot'.
-
-\tf@toc=\write8
-\openout8 = `tcc.toc'.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
- (./tcc.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
-Package rerunfilecheck Info: File `tcc.brf' has not changed.
-(rerunfilecheck)             Checksum: C7FF2C581C2313657C782EF24D783036;436.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 41.
- ) 
+ 
 Here is how much of TeX's memory you used:
- 12405 strings out of 495000
- 180653 string characters out of 6181169
- 298289 words of memory out of 5000000
- 15176 multiletter control sequences out of 15000+600000
- 98227 words of font info for 61 fonts, out of 8000000 for 9000
+ 12048 strings out of 495000
+ 175304 string characters out of 6181169
+ 294551 words of memory out of 5000000
+ 14950 multiletter control sequences out of 15000+600000
+ 62526 words of font info for 48 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 41i,13n,38p,621b,576s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share
-/texmf/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf/fonts/type1/public/lm
-/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texm
-f/fonts/type1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmm
-i12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fon
-ts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb>
-</usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/
-public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/sha
-re/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/
-lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/te
-xmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/
-lmsy10.pfb>
-Output written on tcc.pdf (59 pages, 509562 bytes).
-PDF statistics:
- 669 PDF objects out of 1000 (max. 8388607)
- 578 compressed objects within 6 object streams
- 135 named destinations out of 1000 (max. 500000)
- 399 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 41i,13n,36p,249b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
