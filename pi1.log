@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.4.29)  29 APR 2016 19:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.4.29)  29 APR 2016 21:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -924,9 +924,25 @@ LaTeX Info: Redefining \cite on input line 618.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/bold-extra/bold-extra.sty
 Package: bold-extra 2001/11/13 v0.1 Use fonts from cm/mf-extra/bold
-))
+)
 (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2015/04/20 v2.0e eso-pic (RN)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box30
+\beforetitleunit=\skip208
+\aftertitleunit=\skip209
+\ttl@plus=\dimen159
+\ttl@minus=\dimen160
+\ttl@toksa=\toks27
+\titlewidth=\dimen161
+\titlewidthlast=\dimen162
+\titlewidthfirst=\dimen163
+))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2011/12/15 v1.6 TOC entries
+\ttl@leftsep=\dimen164
 )
 (./fixos/comandos.tex) (./fixos/novosComandos.tex) (./editaveis/informacoes.tex
 ) (./fixos/informacoes.tex) (./fixos/setup.tex
@@ -959,7 +975,7 @@ LaTeX Font Info:    Try loading font information for T1+lmr on input line 9.
  (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-\AtBeginShipoutBox=\box30
+\AtBeginShipoutBox=\box31
 Package hyperref Info: Link coloring ON on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -979,24 +995,24 @@ LaTeX Info: Redefining \nameref on input line 9.
 LaTeX Info: Redefining \degres on input line 9.
 LaTeX Info: Redefining \dots on input line 9.
 LaTeX Info: Redefining \up on input line 9.
-\myptabbox=\box31
-\myptabboxwidth=\skip208
+\myptabbox=\box32
+\myptabboxwidth=\skip210
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 9.
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count172
-\scratchdimen=\dimen159
-\scratchbox=\box32
+\scratchdimen=\dimen165
+\scratchbox=\box33
 \nofMPsegments=\count173
 \nofMParguments=\count174
-\everyMPshowfont=\toks27
+\everyMPshowfont=\toks28
 \MPscratchCnt=\count175
-\MPscratchDim=\dimen160
+\MPscratchDim=\dimen166
 \MPnumerator=\count176
 \makeMPintoPDFobject=\count177
-\everyMPtoPDFconversion=\toks28
+\everyMPtoPDFconversion=\toks29
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1095,73 +1111,171 @@ l.2 A
 ] [16
 
 ]) (./fixos/indiceAutomatico.tex (./pi1.toc
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 41.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 41.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 41.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17])
-[18]) (./editaveis/introducao.tex
-
-! LaTeX Error: File `introducao/tema.tex' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
-
-Enter file name: cd ..
-
-! LaTeX Error: File `cd ..' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: .)
-
-Enter file name: q
-
-! LaTeX Error: File `q..' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: .)
-
-Enter file name: q
-
-! LaTeX Error: File `q..' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: .)
-
-Enter file name: 
-! Interruption.
-<to be read again> 
-                   }
-l.3 \input{introducao/tema}
-                           ^^M
+! Undefined control sequence.
+<argument> \@chapapp@head 
+                          \@cftbsnum 1\@cftasnum 
+l.6 ...rodu\IeC {\c c}\IeC {\~a}o}}{19}{chapter.1}
+                                                  
+? ^^[[A
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
 ? q
 OK, entering \batchmode...
+! Undefined control sequence.
+<argument> \@chapapp@head 
+                          \@cftbsnum 1\@cftasnum 
+l.6 ...rodu\IeC {\c c}\IeC {\~a}o}}{19}{chapter.1}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-! LaTeX Error: File `introducao/justificativa.tex' not found.
+! Undefined control sequence.
+<argument> \@chapapp@head 
+                          \@cftbsnum 2\@cftasnum 
+l.13 ...ppercase {Desenvolvimento}}{21}{chapter.2}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
+! Undefined control sequence.
+<argument> \@chapapp@head 
+                          \@cftbsnum 2\@cftasnum 
+l.13 ...ppercase {Desenvolvimento}}{21}{chapter.2}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
- Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.4 \input{introducao/justificativa}
-                                    ^^M
-*** (cannot \read from terminal in nonstop modes)
+! Undefined control sequence.
+<argument> \@chapapp@head 
+                          \@cftbsnum 3\@cftasnum 
+l.18 ...case {Conclus\IeC {\~o}es}}{23}{chapter.3}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
+! Undefined control sequence.
+<argument> \@chapapp@head 
+                          \@cftbsnum 3\@cftasnum 
+l.18 ...case {Conclus\IeC {\~o}es}}{23}{chapter.3}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 23.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 23.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 23.
+) [17] [18
+
+]) (./editaveis/introducao.tex (./editaveis/introducao/tema.tex) (./editaveis/i
+ntroducao/justificativa.tex) (./editaveis/introducao/questao.tex) (./editaveis/
+introducao/objetivos.tex) (./editaveis/introducao/metodologia.tex) (./editaveis
+/introducao/organizacao.tex)) (./editaveis/desenvolvimento.tex [19
+
+] [20
+
+] (./editaveis/desenvolvimento/contexto.tex) (./editaveis/desenvolvimento/funda
+mentacao.tex) (./editaveis/desenvolvimento/org_existentes.tex) (./editaveis/des
+envolvimento/solucao.tex)) (./editaveis/conclusao.tex [21] [22
+
+]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 5.
+ (/usr/share/texmf/tex/latex/lm/omslmr.fd
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 5.
+)
+No file pi1.bbl.
+ (./editaveis/apendices.tex [23] [24
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 4.
+
+ [25
+
+] [26] [27
+
+] [28
+
+]) (./editaveis/anexos.tex [29] [30
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 4.
+
+ [31
+
+] [32] [33
+
+] [34
+
+])
+No file pi1.ind.
  
+AED: lastpage setting LastPage
+ [35]
+\tf@lof=\write5
+\openout5 = `pi1.lof'.
+
+\tf@lot=\write6
+\openout6 = `pi1.lot'.
+
+\tf@toc=\write7
+\openout7 = `pi1.toc'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 38.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 38.
+ (./pi1.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 38.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 38.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 38.
+ ) 
 Here is how much of TeX's memory you used:
- 12048 strings out of 495000
- 175304 string characters out of 6181169
- 294551 words of memory out of 5000000
- 14950 multiletter control sequences out of 15000+600000
- 62526 words of font info for 48 fonts, out of 8000000 for 9000
+ 12535 strings out of 495000
+ 182687 string characters out of 6181169
+ 300449 words of memory out of 5000000
+ 15378 multiletter control sequences out of 15000+600000
+ 68286 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 41i,13n,36p,249b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 41i,13n,36p,239b,514s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share
+/texmf/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf/fonts/type1/public/lm
+/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/texm
+f/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10
+.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/
+type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb><
+/usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1
+/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></us
+r/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
+Output written on pi1.pdf (37 pages, 317584 bytes).
+PDF statistics:
+ 387 PDF objects out of 1000 (max. 8388607)
+ 323 compressed objects within 4 object streams
+ 74 named destinations out of 1000 (max. 500000)
+ 250 words of extra memory for PDF output out of 10000 (max. 10000000)
+
