@@ -8,16 +8,16 @@
 
 \begin{document}
 
-\frenchspacing 
+\frenchspacing
 \imprimircapa
 \imprimirfolhaderosto*
 
-\input{editaveis/agradecimentos}
+%%\input{editaveis/agradecimentos}
 \input{editaveis/resumo}
 \input{editaveis/abstract}
 \input{fixos/listasAutomaticas}
-\input{editaveis/abreviaturas}
-\input{editaveis/simbolos}
+%%\input{editaveis/abreviaturas}
+%%\input{editaveis/simbolos}
 \input{fixos/indiceAutomatico}
 
 \textual
@@ -26,14 +26,15 @@
 \input{editaveis/desenvolvimento}
 \input{editaveis/conclusao}
 
-\bookmarksetup{startatroot} 
+\bookmarksetup{startatroot}
 
 \postextual
 
-\bibliography{bibliografia} 
+\input{editaveis/bibli}
+
+\bibliography{bibliografia}
 \input{editaveis/apendices}
 \input{editaveis/anexos}
 \printindex
 
 \end{document}
-
